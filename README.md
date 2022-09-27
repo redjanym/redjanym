@@ -1,6 +1,8 @@
 ### Hi there 👋
 Welcome to my profile. Check around, maybe you'll find something interesting 🙂
 
+You could also check out some of my PHP packages available [on Packagist](https://packagist.org/packages/redjanym/)
+
 <!--
 **redjanym/redjanym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
